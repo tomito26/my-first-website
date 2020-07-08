@@ -11,4 +11,4 @@ You simply  fork the project and clone it
 * HTML
 * CSS
 ## Lincense and copyright
-License under  the [MIT License](License).
+Licensed under  the [MIT License](LICENSE).
