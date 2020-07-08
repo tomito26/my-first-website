@@ -10,3 +10,5 @@ You simply  fork the project and clone it
 ## Technology used:
 * HTML
 * CSS
+## Lincense and copyright
+License under  the [MIT License](License).
